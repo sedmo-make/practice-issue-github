@@ -1,4 +1,4 @@
 print("please enter number")
 a=int(input())
-
-print(a)
+b=input("enter name")
+print("your details are",a,b)
